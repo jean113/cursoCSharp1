@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+D:\Projetos\Curso C#\Linq\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+D:\Projetos\Curso C#\Linq\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.AssemblyInfo.cs
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.exe
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.deps.json
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.runtimeconfig.json
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.runtimeconfig.dev.json
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.dll
+D:\Projetos\Curso C#\ex10-Interfaces\bin\Debug\netcoreapp3.1\ex10-Interfaces.pdb
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.dll
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.pdb
+D:\Projetos\Curso C#\ex10-Interfaces\obj\Debug\netcoreapp3.1\ex10-Interfaces.genruntimeconfig.cache

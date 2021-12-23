@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.AssemblyInfo.cs
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.exe
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.deps.json
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.runtimeconfig.json
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.runtimeconfig.dev.json
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.dll
+D:\Projetos\Curso C#\Interfaces_Multiplas\bin\Debug\netcoreapp3.1\Interfaces_Multiplas.pdb
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.dll
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.pdb
+D:\Projetos\Curso C#\Interfaces_Multiplas\obj\Debug\netcoreapp3.1\Interfaces_Multiplas.genruntimeconfig.cache

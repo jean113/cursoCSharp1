@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.AssemblyInfo.cs
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.exe
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.deps.json
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.runtimeconfig.json
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.runtimeconfig.dev.json
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.dll
+D:\Projetos\Curso C#\cap4\ex3\bin\Debug\netcoreapp3.1\ex3.pdb
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.dll
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.pdb
+D:\Projetos\Curso C#\cap4\ex3\obj\Debug\netcoreapp3.1\ex3.genruntimeconfig.cache

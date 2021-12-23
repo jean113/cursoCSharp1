@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfo.cs
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.exe
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.deps.json
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.json
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.dev.json
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.dll
+D:\Projetos\Curso C#\ex5\bin\Debug\netcoreapp3.1\ex5.pdb
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.dll
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.pdb
+D:\Projetos\Curso C#\ex5\obj\Debug\netcoreapp3.1\ex5.genruntimeconfig.cache

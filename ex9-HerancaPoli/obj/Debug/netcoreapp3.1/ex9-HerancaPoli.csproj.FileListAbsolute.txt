@@ -1,0 +1,13 @@
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.csprojAssemblyReference.cache
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.AssemblyInfoInputs.cache
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.AssemblyInfo.cs
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.exe
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.deps.json
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.runtimeconfig.json
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.runtimeconfig.dev.json
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.dll
+D:\Projetos\Curso C#\ex9-HerancaPoli\bin\Debug\netcoreapp3.1\ex9-HerancaPoli.pdb
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.dll
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.pdb
+D:\Projetos\Curso C#\ex9-HerancaPoli\obj\Debug\netcoreapp3.1\ex9-HerancaPoli.genruntimeconfig.cache
